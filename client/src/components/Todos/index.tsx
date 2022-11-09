@@ -31,7 +31,7 @@ const Todo: React.FC<ITodoComponentprops> = ({
           Move to in-progress
         </button>
       );
-    } else if (status == "ongoing") {
+    } else if (status === "ongoing") {
       return (
         <>
           <button
