@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Vanilla JavaScript",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos, veritatis.",
+      "status": "new"
+    },
+    {
+      "id": 2,
+      "title": "Learn a new thing.",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos, veritatis.",
+      "status": "finished"
+    },
+    {
+      "title": "fafafa",
+      "text": "fafafaf",
+      "status": "ongoing",
+      "id": 6
+    },
+    {
+      "title": "sadadad",
+      "text": "dadadad",
+      "status": "ongoing",
+      "id": 7
+    }
+  ]
+}
