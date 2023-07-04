@@ -10,19 +10,19 @@
       "id": 2,
       "title": "Learn a new thing.",
       "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos, veritatis.",
-      "status": "finished"
+      "status": "new"
     },
     {
-      "title": "fafafa",
-      "text": "fafafaf",
-      "status": "ongoing",
-      "id": 6
+      "title": "hghhgh",
+      "text": "dtfrtt",
+      "status": "new",
+      "id": 8
     },
     {
-      "title": "sadadad",
-      "text": "dadadad",
-      "status": "ongoing",
-      "id": 7
+      "title": "hfjhafhajf",
+      "text": "fbjashfkafjhfakga",
+      "status": "new",
+      "id": 9
     }
   ]
 }
